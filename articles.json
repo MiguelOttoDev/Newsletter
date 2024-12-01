@@ -1,0 +1,55 @@
+[
+    {
+      "title": "Insights Tech: Sua Dose Diária de Inovação",
+      "text": [
+        "Bem-vindo ao Insights Tech, um podcast inovador que conecta você às novidades mais impactantes do universo tecnológico! De segunda a sexta-feira, discutimos tendências, notícias e curiosidades sobre tecnologia, programação e desenvolvimento.",
+        "No último episódio, abordamos o impacto da inteligência artificial generativa na automação, como startups estão revolucionando o mercado de software e dicas para se manter atualizado em um mundo em constante mudança."
+      ],
+      "tags": ["podcast", "tecnologia", "inovação"]
+    },
+    {
+      "title": "Workshops Interativos na Comunidade DevConecta",
+      "text": [
+        "A comunidade DevConecta agora conta com workshops diários para seus membros, oferecendo uma experiência de aprendizado dinâmica e colaborativa! Os encontros acontecem todas as tardes em canais exclusivos, com temas variados, desde front-end moderno até a integração de APIs complexas.",
+        "Na última semana, tivemos mais de 200 participantes aprendendo sobre otimização de performance no React e boas práticas em TypeScript. Junte-se a nós e expanda suas habilidades técnicas em um ambiente de troca e aprendizado."
+      ],
+      "tags": ["comunidade", "workshops", "dev"]
+    },
+    {
+      "title": "Maratona Full-Stack: Do Zero ao Deploy",
+      "text": [
+        "Está no ar a Maratona Full-Stack, uma iniciativa para ajudar desenvolvedores a criarem aplicações robustas do zero! Durante quatro semanas, você aprenderá a construir uma API completa, integrar autenticação JWT, implementar um banco de dados relacional e fazer o deploy na nuvem.",
+        "Este desafio é perfeito para quem busca se destacar no mercado e criar um portfólio profissional. Não perca tempo: comece agora e dê o próximo passo na sua carreira tech!"
+      ],
+      "tags": ["full-stack", "desafio", "carreira"]
+    },
+
+    {
+        "title": "Hackathons: Teste suas Habilidades e Inove",
+        "text": [
+          "Hackathons são uma excelente oportunidade para colocar seus conhecimentos à prova e trabalhar em equipe para criar soluções inovadoras em um curto espaço de tempo. Recentemente, dezenas de desenvolvedores participaram do TechChallenge, criando projetos incríveis em áreas como sustentabilidade e automação.",
+          "Participe de um hackathon e experimente um ambiente desafiador que promove aprendizado acelerado, networking e a chance de contribuir para projetos reais com impacto social e tecnológico."
+        ],
+        "tags": ["hackathon", "inovação", "projetos"]
+      },
+      {
+        "title": "Lançamento do DevTalks Academy",
+        "text": [
+          "Chegou o DevTalks Academy, uma série de encontros online onde especialistas compartilham experiências sobre desenvolvimento de software, design de sistemas e as últimas tendências tecnológicas. O evento inaugural trouxe insights sobre o futuro do desenvolvimento web e frameworks emergentes.",
+          "Os encontros são gratuitos e abertos a todos os interessados em tecnologia. Inscreva-se no próximo DevTalk e fique por dentro das melhores práticas e estratégias para evoluir como desenvolvedor!"
+        ],
+        "tags": ["devtalks", "educação", "tecnologia"]
+      },
+
+    {
+      "title": "Como Criar um Portfólio Impactante",
+      "text": [
+        "No episódio mais recente do *Tech Talks Brasil*, discutimos como montar um portfólio que chame a atenção de recrutadores. Exploramos as melhores práticas para apresentar seus projetos, além de compartilhar ferramentas úteis e dicas valiosas para destacar suas habilidades.",
+        "Entre os tópicos, abordamos como organizar seu GitHub, a importância de incluir descrições claras para cada projeto, e como destacar tecnologias e metodologias usadas. Não perca essas orientações práticas para alavancar sua carreira!"
+      ],
+      
+      "image": "/example.png",
+      "alt": "Imagem ilustrativa com dicas sobre criação de portfólio",
+      "tags": ["carreira", "podcast"]
+    }
+  ]
